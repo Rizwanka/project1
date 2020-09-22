@@ -15,7 +15,7 @@
 			username: <input type="text" name="username"><br>
 			password: <input type="text" name="password"><br>
 			password: <input type="text" name="password2"><br>
-			<input type="submit" value="login"><br>
+			<input type="submit" value="sign up"><br>
 			<a href="index.php">already have an account?</a><br>
 		</form>
 	</body>

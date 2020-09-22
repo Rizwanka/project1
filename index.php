@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>
-			Form
+			Log in
 		</title>
 	</head>
 
