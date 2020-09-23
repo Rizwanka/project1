@@ -8,10 +8,9 @@
 
 	<body>
 		<form action="oke.php" method="post">
-			email: <input type="email" name="email"><br>
-			new password: <input type="text" name="newpassword"><br>
-			<input type="submit" value="accept"><br>
-
+			email: <input type="email" name="email" required><br>
+			new password: <input type="text" name="newpassword" required><br>
+			<input type="submit" value="->"><br>
 		</form>
 	</body>
 </html>
